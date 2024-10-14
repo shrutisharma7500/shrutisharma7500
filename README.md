@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shrutisharma7500
+  👋 Hi, I’m @shrutisharma7500
   
 - 👀 I’m interested in learning new things and exploring
   
