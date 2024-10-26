@@ -1,9 +1,18 @@
-<h1 align="center">Hi 👋, I'm Shruti Sharma</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=deepanshigautam&label=Visitors&color=0077B5&style=rounded-square" alt="Profile views" />
+</p>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shrutisharma7500&label=Profile%20views&color=0e75b6&style=flat" alt="shrutisharma7500" /> </p>
+![Header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=12,13,14,15,16,17,18,19,20,21,22,23,24&text=Hi,%20I'm%20Shruti&fontSize=60&fontColor=fff&animation=fadeIn&2desc=&descSize=20&descAlignY=70)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrutisharma7500" alt="shrutisharma7500" /></a> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+
+</div>
+
+
+<!-- Decorative Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <p align="left"> <a href="https://twitter.com/shrutishar82067" target="blank"><img src="https://img.shields.io/twitter/follow/shrutishar82067?logo=twitter&style=for-the-badge" alt="shrutishar82067" /></a> </p>
 
