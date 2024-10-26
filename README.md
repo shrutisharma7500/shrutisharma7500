@@ -48,3 +48,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrutisharma7500&show_icons=true&locale=en" alt="shrutisharma7500" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrutisharma7500&" alt="shrutisharma7500" /></p>
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+</div>
+
+<hr/>
+
