@@ -16,7 +16,7 @@
 
 <p align="left"> <a href="https://twitter.com/shrutishar82067" target="blank"><img src="https://img.shields.io/twitter/follow/shrutishar82067?logo=twitter&style=for-the-badge" alt="shrutishar82067" /></a> </p>
 
-- 🔭 I’m currently working on [Next JS](https://github.com/shrutisharma7500/job-portal)
+- 🔭 I’m currently working on [Cloudinary-saas](https://github.com/shrutisharma7500/Cloud_IQ)
 
 - 🌱 I’m currently learning **Next.JS,React.JS,Three.Js**
 
